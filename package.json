@@ -1,5 +1,5 @@
 {
-  "name": "react-native-simple-twitter",
+  "name": "studioLabs/react-native-simple-twitter",
   "version": "2.3.0",
   "description": "Twitter API client for React Native without react-native link",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
     "expo",
     "twitter"
   ],
-  "author": "Yu Watanabe <fight.ippatu5648@gmail.com> (https://github.com/watanabeyu)",
+  "author": "Steed Monteiro <steed.monteiro@gmail.com> (https://github.com/studioLabs)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/studioLabs/react-native-simple-twitter/issues"
