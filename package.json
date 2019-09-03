@@ -1,6 +1,7 @@
 {
-  "name": "studioLabs/react-native-simple-twitter",
+  "name": "@studiolabs/react-native-simple-twitter",
   "version": "2.3.0",
+  "public": true,
   "description": "Twitter API client for React Native without react-native link",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
@@ -10,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:studioLabs/react-native-simple-twitter.git"
+    "url": "git+ssh://git@github.com/studioLabs/react-native-simple-twitter.git"
   },
   "keywords": [
     "react-native",
@@ -71,5 +72,10 @@
     "testPathIgnorePatterns": [
       "/node_modules/"
     ]
+  },
+  "directories": {
+    "example": "example",
+    "src": "src",
+    "dist": "dist"
   }
 }
