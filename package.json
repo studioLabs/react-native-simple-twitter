@@ -1,6 +1,6 @@
 {
   "name": "@studiolabs/react-native-simple-twitter",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "public": true,
   "description": "Twitter API client for React Native without react-native link",
   "main": "dist/index.js",
